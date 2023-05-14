@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NipaAnjum&label=Profile%20views&color=0e75b6&style=flat" alt="NipaAnjum" /> </p>
 
-- 🔭 I am studying at [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
+- 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
 
 - 👨‍💻 All of my projects are available at [github.com/NipaAnjum](https://github.com/NipaAnjum)
 
