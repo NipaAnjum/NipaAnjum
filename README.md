@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Nipa Anjum</h1>
-<h3 align="center"> CS Undergrad | Researcher</h3>
+<h3 align="center"> Lecturer| CS Grad | Researcher</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NipaAnjum&label=Profile%20views&color=0e75b6&style=flat" alt="NipaAnjum" /> </p>
 
