@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, It's Nipa Anjum</h1>
-<h3 align="center"> Lecturer| CS Grad | Researcher</h3>
+<h1 align="center">Hi 👋, It's Nipa</h1>
+<h3 align="center"> Lecturer @ Uttara University | CS Graduate | Deep Learning & Computer Vision Researcher </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NipaAnjum&label=Profile%20views&color=0e75b6&style=flat" alt="NipaAnjum" /> </p>
 
 - 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
 
 - 👨‍💻 All of my projects are available at [github.com/NipaAnjum](https://github.com/NipaAnjum)
+
+- 👨‍💻 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=FZ0nAcUAAAAJ).
 
 - 💬 Ask me about **Machine Learning | Deep Learning | Computer Vision | Cooking**
 
